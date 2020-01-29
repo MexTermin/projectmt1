@@ -1,1 +1,2 @@
-print(hola)
+def control():
+    return "hello"
